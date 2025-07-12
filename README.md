@@ -1,5 +1,5 @@
-# MercadoFácil: Plataforma de Comercio Electrónico Modular en Java
-MercadoFácil es una plataforma de mercado digital desarrollada en Java, que permite a los usuarios comprar y vender productos de forma sencilla y organizada. Inspirada en servicios como MercadoLibre, esta aplicación simula un entorno de comercio electrónico con múltiples funcionalidades y una arquitectura escalable, ideal para fines educativos o como base para desarrollos empresariales.
+# MercadoDigital: Plataforma de Comercio Electrónico Modular en Java
+MercadoDigital es una plataforma de mercado digital desarrollada en Java, que permite a los usuarios comprar y vender productos de forma sencilla y organizada. Inspirada en servicios como MercadoLibre, esta aplicación simula un entorno de comercio electrónico con múltiples funcionalidades y una arquitectura escalable, ideal para fines educativos o como base para desarrollos empresariales.
 
 ## 🚀 Características Principales
 
